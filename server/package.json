@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "is backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank0809/internshalaclone.git"
+  },
+  "author": "shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashank0809/internshalaclone/issues"
+  },
+  "homepage": "https://github.com/Shashank0809/internshalaclone#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
